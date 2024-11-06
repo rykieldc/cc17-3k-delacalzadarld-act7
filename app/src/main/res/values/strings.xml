@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Explore CSJDM</string>
+    <string name="csjdm_slogan">CSJDM Slogan</string>
+    <string name="explore_csjdm">Let\'s Explore CSJDM!</string>
+    <string name="loc_csjdm">San Jose del Monte City, Bulacan</string>
+    <string name="map_csjdm">San Jose del Monte Map</string>
+    <string name="category">Category</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="category_name">Category Name</string>
+    <string name="arrow">Arrow</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_description">Place Description</string>
+    <string name="home_button">Navigate back to the previous page</string>
+     <string name="description">Description</string>
+    <string name="where_do_you_want_to_go">Where do you want to go?</string>
+    <string name="popular_destinations">Popular Destinations</string>
+    <string name="back">Back</string>
+    <string name="place_card">Place Card</string>
+    <string name="destination_image">Destination Image</string>
+    <string name="destination_name">Destination Name</string>
+</resources>
